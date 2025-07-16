@@ -1,2 +1,5 @@
-console.log('some login features')
+console.log('some login feature')
 Here are some conflict text v2
+Here are some text v1
+
+Here is the final text to solve the conflict
